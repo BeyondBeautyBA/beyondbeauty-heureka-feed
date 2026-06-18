@@ -1,0 +1,3406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+<SHOPITEM>
+<ITEM_ID>expert-eyes-1-balenie</ITEM_ID>
+<PRODUCTNAME>EXPERT EYES 1 balenie</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/expert-eyes</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Expert_Eyes_Biologique_Recherche.jpg?v=1781513863</IMGURL>
+<PRICE_VAT>75</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Očné krémy a gély</CATEGORYTEXT>
+<EAN>3700693212816</EAN>
+<PRODUCTNO>EXEYES</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Spevňujúce a zahusťujúce dvojité sérum. Pre rednúce a oslabené riasy a obočie</DESCRIPTION>
+<ITEMGROUP_ID>expert-eyes</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Expert_Eyes_Brow_Biologique_Recherche.jpg?v=1781513914</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Expert_Eyes_Cills_Biologique_Recherche.jpg?v=1781514080</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>1 balenie</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>ocny-korektor-3-5-ml</ITEM_ID>
+<PRODUCTNAME>Očný korektor /Sérum proti tmavým kruhom a opuchom - odtieň 3. 5 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/ocny-korektor-3</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Eye_Concealer_3_Biologique_Recherche.jpg?v=1781270454</IMGURL>
+<PRICE_VAT>67</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Korektory na tvár</CATEGORYTEXT>
+<EAN>3700693210997</EAN>
+<PRODUCTNO>CRCYT3</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Očný korektor /Sérum proti tmavým kruhom a opuchom</DESCRIPTION>
+<ITEMGROUP_ID>ocny-korektor-3</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>5 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>ocny-korektor-2-5-ml</ITEM_ID>
+<PRODUCTNAME>Očný korektor /Sérum proti tmavým kruhom a opuchom - odtieň 2. 5 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/ocny-korektor-2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Eye_Concealer_2_Biologique_Recherche.jpg?v=1781270570</IMGURL>
+<PRICE_VAT>67</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Korektory na tvár</CATEGORYTEXT>
+<EAN>3700693210980</EAN>
+<PRODUCTNO>CRCYT2</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Očný korektor /Sérum proti tmavým kruhom a opuchom</DESCRIPTION>
+<ITEMGROUP_ID>ocny-korektor-2</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>5 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-teinte-3c-30-ml</ITEM_ID>
+<PRODUCTNAME>Sérum Teinte 3C 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-teinte-3c</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Teinte_3C_Biologique_Recherche.jpg?v=1781270696</IMGURL>
+<PRICE_VAT>116</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Make-up na tvár</CATEGORYTEXT>
+<EAN>3700693212090</EAN>
+<PRODUCTNO>SETE3C</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranné a tónovacie sérum - Odtieň 3C</DESCRIPTION>
+<ITEMGROUP_ID>serum-teinte-3c</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-teinte-3w-30-ml</ITEM_ID>
+<PRODUCTNAME>Sérum Teinte 3W 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-teinte-3w</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Teinte_3W_Biologique_Recherche.jpg?v=1781270763</IMGURL>
+<PRICE_VAT>116</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Make-up na tvár</CATEGORYTEXT>
+<EAN>3700693212113</EAN>
+<PRODUCTNO>SETE3W</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranné a tónovacie sérum - Odtieň 3W</DESCRIPTION>
+<ITEMGROUP_ID>serum-teinte-3w</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-teinte-2c-30-ml</ITEM_ID>
+<PRODUCTNAME>Sérum Teinte 2C 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-teinte-2c</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Teinte_2W_Biologique_Recherche.jpg?v=1781270833</IMGURL>
+<PRICE_VAT>116</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Make-up na tvár</CATEGORYTEXT>
+<EAN>3700693212052</EAN>
+<PRODUCTNO>SETE2C</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranné a tónovacie sérum - Odtieň 2C</DESCRIPTION>
+<ITEMGROUP_ID>serum-teinte-2c</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-teinte-2w-30-ml</ITEM_ID>
+<PRODUCTNAME>Sérum Teinte 2W 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-teinte-2w</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Teinte_2W_Biologique_Recherche.jpg?v=1781270833</IMGURL>
+<PRICE_VAT>116</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Make-up na tvár</CATEGORYTEXT>
+<EAN>3700693212076</EAN>
+<PRODUCTNO>SETE2W</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranné a tónovacie sérum - Odtieň 2W</DESCRIPTION>
+<ITEMGROUP_ID>serum-teinte-2w</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-teinte-1c-30-ml</ITEM_ID>
+<PRODUCTNAME>Sérum Teinte 1C 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-teinte-1c</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Teinte_1C_Biologique_Recherche.jpg?v=1781271042</IMGURL>
+<PRICE_VAT>116</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Make-up na tvár</CATEGORYTEXT>
+<EAN>3700693212014</EAN>
+<PRODUCTNO>SETE1C</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranné a tónovacie sérum - Odtieň 1C</DESCRIPTION>
+<ITEMGROUP_ID>serum-teinte-1c</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-teinte-1w-30-ml</ITEM_ID>
+<PRODUCTNAME>Sérum Teinte 1W 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-teinte-1w</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Teinte_1W_Biologique_Recherche.jpg?v=1781271104</IMGURL>
+<PRICE_VAT>116</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Tvár | Make-up na tvár</CATEGORYTEXT>
+<EAN>3700693212038</EAN>
+<PRODUCTNO>SETE1W</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranné a tónovacie sérum - Odtieň 1W</DESCRIPTION>
+<ITEMGROUP_ID>serum-teinte-1w</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-liftkiss-1-plat</ITEM_ID>
+<PRODUCTNAME>LIFTKISS 1 plát</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-liftkiss</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Liftkiss_Sachet_Masque_RVB_MD.jpg?v=1781108417</IMGURL>
+<PRICE_VAT>24</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693210140</EAN>
+<PRODUCTNO>LIFTK</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Hydratačná a obnovujúca maska na pery (1 plát | 3,5 ML)</DESCRIPTION>
+<ITEMGROUP_ID>masque-liftkiss</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Obsah</PARAM_NAME>
+<VAL>1 plát</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>protection-spf50-telo-150-ml</ITEM_ID>
+<PRODUCTNAME>Telový ochranný krém s SPF 50 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/protection-spf50-telo</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Protection-u.v.-corps-spf25-150-ml-Biologique-Recherche.jpg?v=1780367519</IMGURL>
+<PRICE_VAT>127</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Slnečná ochrana | Prípravky na opaľovanie</CATEGORYTEXT>
+<EAN>3700693211024</EAN>
+<PRODUCTNO>PROUVC50150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Komplexná fotoochrana so 100 % minerálnymi filtrami a antioxidantmi novej generácie. 150ML</DESCRIPTION>
+<ITEMGROUP_ID>protection-spf50-telo</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>protection-spf25-telo-150-ml</ITEM_ID>
+<PRODUCTNAME>Telový ochranný krém s SPF 25 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/protection-spf25-telo</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Protection-u.v.-corps-spf25-150-ml-Biologique-Recherche.jpg?v=1780367519</IMGURL>
+<PRICE_VAT>119</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Slnečná ochrana | Prípravky na opaľovanie</CATEGORYTEXT>
+<EAN>3700693210348</EAN>
+<PRODUCTNO>PROUVC25150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Komplexná fotoochrana so 100 % minerálnymi filtrami a antioxidantmi novej generácie. 150ML</DESCRIPTION>
+<ITEMGROUP_ID>protection-spf25-telo</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>reparation-after-sun-50-ml</ITEM_ID>
+<PRODUCTNAME>Ošetrenie pokožky po opaľovaní 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/reparation-after-sun</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Reparation-U.V.-50-ml-Biologique-Recherche.jpg?v=1780367520</IMGURL>
+<PRICE_VAT>110</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Slnečná ochrana | Prípravky po opaľovaní</CATEGORYTEXT>
+<EAN>3700693204392</EAN>
+<PRODUCTNO>REPUV50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Regeneračný krém na tvár po opaľovaní. Vhodné pre všetky typy pleti, ktoré potrebujú regeneráciu, vrátane vráskavej a starnúcej pleti. 50ML</DESCRIPTION>
+<ITEMGROUP_ID>reparation-after-sun</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>protection-spf50-50-ml</ITEM_ID>
+<PRODUCTNAME>Ochranný krém s SPF 50 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/protection-spf50</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/protection-uv-spf-50-50ml-biologique-recherche.jpg?v=1780367520</IMGURL>
+<PRICE_VAT>140</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Slnečná ochrana | Prípravky na opaľovanie</CATEGORYTEXT>
+<EAN>3700693208673</EAN>
+<PRODUCTNO>PROUV5050</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranný krém s SPF50. Vyvážená ochrana a preventívna starostlivosť pre rovnomernú, chránenú a žiarivú pleť. 50ML</DESCRIPTION>
+<ITEMGROUP_ID>protection-spf50</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>set-odlicovacich-hubiek-set</ITEM_ID>
+<PRODUCTNAME>Set bambusových hubiek na čistenie pleti Set</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/set-odlicovacich-hubiek</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/carres_de_soin.webp?v=1780367520</IMGURL>
+<PRICE_VAT>46</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Kefky a hubky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693211253</EAN>
+<PRODUCTNO>CARRESOIN</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sada odličovacích tampónov</DESCRIPTION>
+<ITEMGROUP_ID>set-odlicovacich-hubiek</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/carres_de_soin_2.webp?v=1780367520</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Sada</PARAM_NAME>
+<VAL>Set</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-platysma-1-plat</ITEM_ID>
+<PRODUCTNAME>PLATYSMA 1 plát</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-platysma</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Platysma_Sachet_Masque_RVB_MD.jpg?v=1781109065</IMGURL>
+<PRICE_VAT>30</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693210171</EAN>
+<PRODUCTNO>PLATY</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Maska na spevnenie spodného oválu tváre (1 plát | 14 ML)</DESCRIPTION>
+<ITEMGROUP_ID>masque-platysma</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Obsah</PARAM_NAME>
+<VAL>1 plát</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>huile-lipogen-100-ml</ITEM_ID>
+<PRODUCTNAME>LIPOGEN AC 100ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/huile-lipogen</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lipogen_AC_100ml.jpg?v=1780367519</IMGURL>
+<PRICE_VAT>105</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Strie a celulitída | Prípravky na celulitídu a strie</CATEGORYTEXT>
+<EAN>3700693206938</EAN>
+<PRODUCTNO>LIPOAC100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Drenážny olej na tělo — prémiový produkt Biologique Recherche z kategórie Séra a oleje</DESCRIPTION>
+<ITEMGROUP_ID>huile-lipogen</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>la-grande-creme-serum-coffret-80-ml</ITEM_ID>
+<PRODUCTNAME>LA GRANDE CREME 50 ml &amp; LE GRAND SERUM 30 ml PRÉMIOVÝ KUFRÍK A DARČEK 80 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/la-grande-creme-serum-coffret</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/biologique_le_grand_coffret.webp?v=1780401425</IMGURL>
+<PRICE_VAT>970</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693207713</EAN>
+<PRODUCTNO>GRCREME50C</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Prémiový darčekový kufrík luxusnej starostlivosti</DESCRIPTION>
+<ITEMGROUP_ID>la-grande-creme-serum-coffret</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_La_Grande_Creme_50ml_-_Pot_creme_seul_-_CMJN_HD_Kopie.jpg?v=1780400858</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Le_Grand_Serum.jpg?v=1780400241</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/BR_Mirror_Open_2_c74cbc1e-d53f-4ab3-835a-87623eef3f81.webp?v=1780401316</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>80 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>solution-demaquillante-250-ml</ITEM_ID>
+<PRODUCTNAME>Dvojfázový odličovač očného okolia 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/solution-demaquillante</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/solution-demaquillante-pour-les-yeux-250-ml.jpg?v=1780972885</IMGURL>
+<PRICE_VAT>79</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693200189</EAN>
+<PRODUCTNO>SODEM250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Dvojfázový odličovač očného okolia 250ml</DESCRIPTION>
+<ITEMGROUP_ID>solution-demaquillante</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>gant-de-massage-visage-1</ITEM_ID>
+<PRODUCTNAME>Masážna rukavica na tvár 1</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/gant-de-massage-visage</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Gant_De_Massage_Visage.jpg?v=1780367520</IMGURL>
+<PRICE_VAT>15</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Kozmetické pomôcky</CATEGORYTEXT>
+<EAN>3700693203456</EAN>
+<PRODUCTNO>GANTV</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Masažní rukavice obličej — prémiový produkt Biologique Recherche z kategórie Doplnky</DESCRIPTION>
+<ITEMGROUP_ID>gant-de-massage-visage</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>1</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>gant-de-massage-corps-1</ITEM_ID>
+<PRODUCTNAME>Masážna rukavica na telo 1</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/gant-de-massage-corps</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Gant_De_Massage_Corps.jpg?v=1780367519</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Kozmetické pomôcky</CATEGORYTEXT>
+<EAN>3700693203449</EAN>
+<PRODUCTNO>GANTC</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Masažní rukavice tělo — prémiový produkt Biologique Recherche z kategórie Doplnky</DESCRIPTION>
+<ITEMGROUP_ID>gant-de-massage-corps</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>1</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>cryosticks-la-boite-de-2-1</ITEM_ID>
+<PRODUCTNAME>Cryosticks 1 pár 1</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/cryosticks-la-boite-de-2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Cryo_Sticks_Biologique_Recherche_pair.jpg?v=1780455681</IMGURL>
+<PRICE_VAT>75</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Dekoratívna kozmetika | Kozmetické pomôcky</CATEGORYTEXT>
+<EAN>3700693204736</EAN>
+<PRODUCTNO>CRYOSTICKS</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Cryostick — prémiový produkt Biologique Recherche z kategórie Doplnky</DESCRIPTION>
+<ITEMGROUP_ID>cryosticks-la-boite-de-2</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>1</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>keractive-100-ml</ITEM_ID>
+<PRODUCTNAME>KERACTIVE 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/keractive</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Keractive.jpg?v=1780321949</IMGURL>
+<PRICE_VAT>54</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Vlasová regenerácia | Regeneračné séra na vlasy</CATEGORYTEXT>
+<EAN>3700693212625</EAN>
+<PRODUCTNO>KER100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Vlasové sérum — prémiový produkt Biologique Recherche z kategórie Finishing séra</DESCRIPTION>
+<ITEMGROUP_ID>keractive</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>complexe-cegaba-bioproline-serum-cap</ITEM_ID>
+<PRODUCTNAME>COMPLEXE CEGABA + BIOPROLINE SERUM CAPILLAIRE COFFRET 12x5 ml 10x5 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/complexe-cegaba-bioproline-serum-capillaire-coffret-12x5-ml</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Cegaba___Bioproline_ampoules_RVB_MD.jpg?v=1780321871</IMGURL>
+<PRICE_VAT>180</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Vlasová regenerácia | Regeneračné séra na vlasy</CATEGORYTEXT>
+<EAN>3700693206884</EAN>
+<PRODUCTNO>COCEGBIO5</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Vlasové sérum — prémiový produkt Biologique Recherche z kategórie Ošetrujúce séra</DESCRIPTION>
+<ITEMGROUP_ID>complexe-cegaba-bioproline-serum-cap</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Cegaba___Bioproline_12x5ml_RVB_MD.jpg?v=1780321870</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>10x5 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-de-soin-200-ml</ITEM_ID>
+<PRODUCTNAME>CREME DE SOIN 200 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-de-soin</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_de_Soin.jpg?v=1780321916</IMGURL>
+<PRICE_VAT>75</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Kondicionéry a balzamy na vlasy</CATEGORYTEXT>
+<EAN>3700693213028</EAN>
+<PRODUCTNO>CRDS200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Vyživující kondicionér — prémiový produkt Biologique Recherche z kategórie Vlasové balzamy a krémy</DESCRIPTION>
+<ITEMGROUP_ID>creme-de-soin</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-sebo-reequilibrant-75-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING SEBO-REEQUILIBRANT 75 ml 75 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-sebo-reequilibrant</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Sebo-Reequilibrant_75ml.jpg?v=1780322068</IMGURL>
+<PRICE_VAT>25</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212908</EAN>
+<PRODUCTNO>SHSEBOR75</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-sebo-reequilibrant</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Sebo_Reequilibrant.jpg?v=1780322068</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>75 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-sebo-reequilibrant-200-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING SEBO-REEQUILIBRANT 75 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-sebo-reequilibrant</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Sebo-Reequilibrant_75ml.jpg?v=1780322068</IMGURL>
+<PRICE_VAT>55</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212915</EAN>
+<PRODUCTNO>SHSEBOR200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-sebo-reequilibrant</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Sebo_Reequilibrant.jpg?v=1780322068</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-dermo-apaisant-75-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING DERMO-APAISANT 75 ml 75 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-dermo-apaisant</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Dermo-Apaisant_75ml.jpg?v=1780322018</IMGURL>
+<PRICE_VAT>25</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212861</EAN>
+<PRODUCTNO>SHDERMOA75</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-dermo-apaisant</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Dermo_Apaisant.jpg?v=1780322018</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>75 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-dermo-apaisant-200-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING DERMO-APAISANT 75 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-dermo-apaisant</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Dermo-Apaisant_75ml.jpg?v=1780322018</IMGURL>
+<PRICE_VAT>55</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212878</EAN>
+<PRODUCTNO>SHDERMOA200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-dermo-apaisant</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Dermo_Apaisant.jpg?v=1780322018</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-nutri-k-75-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING NUTRI K 75 ml 75 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-nutri-k</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Nutri-K_75ml.jpg?v=1780322048</IMGURL>
+<PRICE_VAT>25</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212823</EAN>
+<PRODUCTNO>SHNUTRIK75</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-nutri-k</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Nutri-K.jpg?v=1780322045</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>75 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-nutri-k-200-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING NUTRI K 75 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-nutri-k</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Nutri-K_75ml.jpg?v=1780322048</IMGURL>
+<PRICE_VAT>55</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212830</EAN>
+<PRODUCTNO>SHNUTRIK200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-nutri-k</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_Nutri-K.jpg?v=1780322045</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-vip-o2-75-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING VIP O2 75 ml 75 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_VIP_O2_75ml.jpg?v=1780322089</IMGURL>
+<PRICE_VAT>25</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212946</EAN>
+<PRODUCTNO>SHVIPO275</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_VIP_O2.jpg?v=1780322090</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>75 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>shampooing-vip-o2-200-ml</ITEM_ID>
+<PRODUCTNAME>SHAMPOOING VIP O2 75 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/shampooing-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_VIP_O2_75ml.jpg?v=1780322089</IMGURL>
+<PRICE_VAT>55</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Šampóny</CATEGORYTEXT>
+<EAN>3700693212953</EAN>
+<PRODUCTNO>SHVIPO2200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Šampon — prémiový produkt Biologique Recherche z kategórie Šampóny</DESCRIPTION>
+<ITEMGROUP_ID>shampooing-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Shampooing_VIP_O2.jpg?v=1780322090</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-dermo-apaisant-100-ml</ITEM_ID>
+<PRODUCTNAME>MASQUE DERMO-APAISANT 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-dermo-apaisant</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Masque_Dermo-Apaisant.jpg?v=1780321978</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Vlasová regenerácia | Regeneračné masky na vlasy</CATEGORYTEXT>
+<EAN>3700693212984</EAN>
+<PRODUCTNO>MACAPDA100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Regenerační maska na vlasy — prémiový produkt Biologique Recherche z kategórie Vlasové masky</DESCRIPTION>
+<ITEMGROUP_ID>masque-dermo-apaisant</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-capillaire-250-ml</ITEM_ID>
+<PRODUCTNAME>LOTION P50 CAPILLAIRE 250 ml 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50-capillaire</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lotion_P50_Capillaire.jpg?v=1780321960</IMGURL>
+<PRICE_VAT>99</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Vlasy | Starostlivosť o vlasy | Vlasová regenerácia</CATEGORYTEXT>
+<EAN>3700693202954</EAN>
+<PRODUCTNO>LOP5CAP250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Exfoliant pro vlasovou pokožku — prémiový produkt Biologique Recherche z kategórie Lotiónové toniká</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50-capillaire</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-msr-h-corps-200-ml</ITEM_ID>
+<PRODUCTNAME>CREME MSR-H CORPS 200 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-msr-h-corps</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_MSR-H_Corps_200ml_Coffret_RVB_MD.jpg?v=1780321743</IMGURL>
+<PRICE_VAT>185</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové krémy</CATEGORYTEXT>
+<EAN>3700693202916</EAN>
+<PRODUCTNO>CRMSRHC200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Hydratační a anti-aging krém — prémiový produkt Biologique Recherche z kategórie Telové krémy</DESCRIPTION>
+<ITEMGROUP_ID>creme-msr-h-corps</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_MSR-H_Corps_200ml_RVB_MD.jpg?v=1780321746</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-matricielle-200-ml</ITEM_ID>
+<PRODUCTNAME>CREME MATRICIELLE  200 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-matricielle</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Matricielle_200ml_RVB_MD.jpg?v=1780321470</IMGURL>
+<PRICE_VAT>150</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové krémy</CATEGORYTEXT>
+<EAN>3700693209656</EAN>
+<PRODUCTNO>CRMAT200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Zpevňující &amp;amp; kontury opět definující krém — prémiový produkt Biologique Recherche z kategórie Telové krémy</DESCRIPTION>
+<ITEMGROUP_ID>creme-matricielle</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-dermo-rl-corps-175-ml</ITEM_ID>
+<PRODUCTNAME>CREME DERMO-RL CORPS 175 ml 175 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-dermo-rl-corps</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Dermo-RL_Corps_175ml_RVB_MD.jpg?v=1780321429</IMGURL>
+<PRICE_VAT>140</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové krémy</CATEGORYTEXT>
+<EAN>3700693203944</EAN>
+<PRODUCTNO>CRDERLC175</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Hydratační a vyživující krém — prémiový produkt Biologique Recherche z kategórie Telové krémy</DESCRIPTION>
+<ITEMGROUP_ID>creme-dermo-rl-corps</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>175 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-liposcult-ac-200-ml</ITEM_ID>
+<PRODUCTNAME>CREME LIPOSCULT AC 200 ML 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-liposcult-ac</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Liposculpt_AC_200ml_RVB_MD.jpg?v=1780321793</IMGURL>
+<PRICE_VAT>130</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Strie a celulitída | Prípravky na celulitídu a strie</CATEGORYTEXT>
+<EAN>3700693209755</EAN>
+<PRODUCTNO>CRLIPOAC200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Kontury a postavu formující tělový krém proti celulitidě — prémiový produkt Biologique Recherche z kategórie Telové krémy</DESCRIPTION>
+<ITEMGROUP_ID>creme-liposcult-ac</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lift-buste-3d-100-ml</ITEM_ID>
+<PRODUCTNAME>LIFT BUSTE 3D 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lift-buste-3d</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lift_Buste.jpg?v=1780398761</IMGURL>
+<PRICE_VAT>132</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové krémy</CATEGORYTEXT>
+<EAN>3700693212434</EAN>
+<PRODUCTNO>LIFTB100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Zvětšující objem a vyplňující tělové sérum — prémiový produkt Biologique Recherche z kategórie Séra a oleje</DESCRIPTION>
+<ITEMGROUP_ID>lift-buste-3d</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-matriciel-100-ml</ITEM_ID>
+<PRODUCTNAME>SERUM MATRICIEL 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-matriciel</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Matriciel_100ml_RVB_MD.jpg?v=1780321834</IMGURL>
+<PRICE_VAT>132</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové krémy</CATEGORYTEXT>
+<EAN>3700693202510</EAN>
+<PRODUCTNO>SEMAT100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Zpevňující tělové sérum — prémiový produkt Biologique Recherche z kategórie Séra a oleje</DESCRIPTION>
+<ITEMGROUP_ID>serum-matriciel</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>huile-fondamentale-100-ml</ITEM_ID>
+<PRODUCTNAME>HUILE FONDAMENTALE 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/huile-fondamentale</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Huile_Fondamentale_100ml_RVB_MD.jpg?v=1780321781</IMGURL>
+<PRICE_VAT>105</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové oleje</CATEGORYTEXT>
+<EAN>3700693208284</EAN>
+<PRODUCTNO>HUFON100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Regenerační olej na tělo a vlasy — prémiový produkt Biologique Recherche z kategórie Séra a oleje</DESCRIPTION>
+<ITEMGROUP_ID>huile-fondamentale</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>gommage-p50-corps-200-ml</ITEM_ID>
+<PRODUCTNAME>GOMMAGE P50 CORPS 200 ml 200 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/gommage-p50-corps</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Gommage_P50_Corps_200ml_CMJN_HD.jpg?v=1780321753</IMGURL>
+<PRICE_VAT>84</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové peelingy</CATEGORYTEXT>
+<EAN>3700693202374</EAN>
+<PRODUCTNO>GOMP5C200</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Tělový exfoliant — prémiový produkt Biologique Recherche z kategórie Exfolianty</DESCRIPTION>
+<ITEMGROUP_ID>gommage-p50-corps</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>200 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-corps-250-ml</ITEM_ID>
+<PRODUCTNAME>LOTION P50 CORPS 250 ml 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50-corps</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_250ml_RVB_MD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>84</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Telo | Starostlivosť o pokožku | Telové peelingy</CATEGORYTEXT>
+<EAN>3700693203814</EAN>
+<PRODUCTNO>LOP5C250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Tělový exfoliant — prémiový produkt Biologique Recherche z kategórie Exfolianty</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50-corps</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_250ml_RVB_HD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>le-grand-serum-8-ml</ITEM_ID>
+<PRODUCTNAME>LE GRAND SERUM 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/le-grand-serum</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Le_Grand_Serum_etui_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>180</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693206877</EAN>
+<PRODUCTNO>GRANDS8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Dokonalý elixír bunkovej dlhovekosti – anti-aging technológia pre viditeľne pevnejšiu pleť a výnimočný jas. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>le-grand-serum</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Le_Grand_Serum.jpg?v=1780400241</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Le_Grand_Serum_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>le-grand-serum-30-ml</ITEM_ID>
+<PRODUCTNAME>LE GRAND SERUM 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/le-grand-serum</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Le_Grand_Serum_etui_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>450</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693203777</EAN>
+<PRODUCTNO>GRANDS30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Dokonalý elixír bunkovej dlhovekosti – anti-aging technológia pre viditeľne pevnejšiu pleť a výnimočný jas. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>le-grand-serum</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Le_Grand_Serum.jpg?v=1780400241</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Le_Grand_Serum_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-yall-o2-8-ml</ITEM_ID>
+<PRODUCTNAME>SERUM YALL~O2 (NEW) 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-yall-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_YALL_02.jpg?v=1780399266</IMGURL>
+<PRICE_VAT>85</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693213738</EAN>
+<PRODUCTNO>YALLO28</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Elixír intenzívnej a dlhodobej hydratácie. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>serum-yall-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Yall_O2_-_30ml.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Yall_O2_-_8ml.jpg?v=1780323424</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-yall-o2-30-ml</ITEM_ID>
+<PRODUCTNAME>SERUM YALL~O2 (NEW) 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-yall-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_YALL_02.jpg?v=1780399266</IMGURL>
+<PRICE_VAT>245</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693213745</EAN>
+<PRODUCTNO>YALLO230</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Elixír intenzívnej a dlhodobej hydratácie. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>serum-yall-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Yall_O2_-_30ml.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Serum_Yall_O2_-_8ml.jpg?v=1780323424</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-grand-millesime-8-ml</ITEM_ID>
+<PRODUCTNAME>SERUM GRAND MILLESIME 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-grand-millesime</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Grand_Millesime_coffret_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>85</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693202268</EAN>
+<PRODUCTNO>SEGM8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Elixír mladosti pre pleť s prvými známkami starnutia. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>serum-grand-millesime</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Grand_Millesime_8ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Grand_Millesime_30ml_RVB_HD.jpg?v=1780399394</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-grand-millesime-30-ml</ITEM_ID>
+<PRODUCTNAME>SERUM GRAND MILLESIME 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-grand-millesime</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Grand_Millesime_coffret_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>245</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693202275</EAN>
+<PRODUCTNO>SEGM30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Elixír mladosti pre pleť s prvými známkami starnutia. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>serum-grand-millesime</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Grand_Millesime_8ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Grand_Millesime_30ml_RVB_HD.jpg?v=1780399394</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>fluide-vip-o2-8-ml</ITEM_ID>
+<PRODUCTNAME>FLUIDE VIP O2 (NEW) 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/fluide-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Fluide_VIP02.jpg?v=1780399184</IMGURL>
+<PRICE_VAT>85</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693213639</EAN>
+<PRODUCTNO>FLVIPO28</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Okyslišující Elixír. Aktívne hydratačné sérum pre pleť bez vitality, ktorá pôsobí unavene, matne a bez prirodzeného jasu. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>fluide-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Fluide_VIP_O2_30ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Fluide_VIP_O2_8ml.jpg?v=1781520255</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>fluide-vip-o2-30-ml</ITEM_ID>
+<PRODUCTNAME>FLUIDE VIP O2 (NEW) 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/fluide-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Fluide_VIP02.jpg?v=1780399184</IMGURL>
+<PRICE_VAT>245</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693213646</EAN>
+<PRODUCTNO>FLVIPO230</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Okyslišující Elixír. Aktívne hydratačné sérum pre pleť bez vitality, ktorá pôsobí unavene, matne a bez prirodzeného jasu. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>fluide-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Fluide_VIP_O2_30ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Fluide_VIP_O2_8ml.jpg?v=1781520255</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>complexe-royal-8-ml</ITEM_ID>
+<PRODUCTNAME>COMPLEXE ROYAL 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/complexe-royal</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Royal_coffret_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>85</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693202237</EAN>
+<PRODUCTNO>COROY8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rozjasňující a vyživující Elixír pre suchú pleť bez jasu a vitality. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>complexe-royal</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Royal_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Complexe_Royal_30ml_RVB_HD.jpg?v=1780399493</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>complexe-royal-30-ml</ITEM_ID>
+<PRODUCTNAME>COMPLEXE ROYAL 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/complexe-royal</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Royal_coffret_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>245</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693202220</EAN>
+<PRODUCTNO>COROY30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rozjasňující a vyživující Elixír pre suchú pleť bez jasu a vitality. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>complexe-royal</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Royal_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Complexe_Royal_30ml_RVB_HD.jpg?v=1780399493</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>silk-plus-8-ml</ITEM_ID>
+<PRODUCTNAME>SILK PLUS 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/silk-plus</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Silk_Plus_coffret_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210003</EAN>
+<PRODUCTNO>SKPLUS8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Absolútny zamatový a skľudňujúci elixír pre mastnú, aknóznu a citlivú pleť. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>silk-plus</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Silk_Plus_8ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_SILK_PLUS_30ML.jpg?v=1780399536</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>silk-plus-30-ml</ITEM_ID>
+<PRODUCTNAME>SILK PLUS 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/silk-plus</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Silk_Plus_coffret_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>160</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210010</EAN>
+<PRODUCTNO>SKPLUS30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Absolútny zamatový a skľudňujúci elixír pre mastnú, aknóznu a citlivú pleť. Finishing sérum</DESCRIPTION>
+<ITEMGROUP_ID>silk-plus</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Silk_Plus_8ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_SILK_PLUS_30ML.jpg?v=1780399536</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-contour-yeux-et-levres-biofixi</ITEM_ID>
+<PRODUCTNAME>CREME CONTOUR YEUX ET LEVRES BIOFIXINE 15 ml 15 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-contour-yeux-et-levres-biofixine</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_contour_Yeux_et_Levres_Biofixine_Flacon_Etui_15ml_RVB_MD.jpg?v=1780323288</IMGURL>
+<PRICE_VAT>105</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Očné krémy a gély</CATEGORYTEXT>
+<EAN>3700693208468</EAN>
+<PRODUCTNO>CRCYL15</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Oční krém. Vyhladzujúci krém proti vráskam pre oblasť očí a pier. Odporúčaný pre kontúry očí a pier s viditeľnými známkami starnutia</DESCRIPTION>
+<ITEMGROUP_ID>creme-contour-yeux-et-levres-biofixi</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_contour_Yeux_et_Levres_Biofixine_Flacon_15ml_RVB_MD.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/hero_banner_2.jpg?v=1778661543</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>15 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-contour-des-yeux-vip-o2-15-ml</ITEM_ID>
+<PRODUCTNAME>CREME CONTOUR DES YEUX VIP O2 15 ml (NEW) 15 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-contour-des-yeux-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Contour_des_Yeux_VIP_O2_Flacon_Etui_15ml_RVB.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>75</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Očné krémy a gély</CATEGORYTEXT>
+<EAN>3700693213714</EAN>
+<PRODUCTNO>CRCYVO215</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Očný krém. Aktívny hydratačný krém na kontúry očí. Odporúčaný pre matnú a nevýraznú pleť, opuchy a kruhy v očnom okolí</DESCRIPTION>
+<ITEMGROUP_ID>creme-contour-des-yeux-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Contour_des_Yeux_VIP_O2_-_15ml_-_CRCYVIPO2.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/hero_banner_2.jpg?v=1778661543</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>15 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>biokiss-15-ml</ITEM_ID>
+<PRODUCTNAME>BIOKISS 15 ml 15 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/biokiss</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Biokiss_15ml_RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>55.6</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Starostlivosť o pery a okolie</CATEGORYTEXT>
+<EAN>3700693202152</EAN>
+<PRODUCTNO>BIOKISS15</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ochranný balzám na pery pre suché a poškodené pery</DESCRIPTION>
+<ITEMGROUP_ID>biokiss</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>15 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>la-grande-creme-recharge-50-ml</ITEM_ID>
+<PRODUCTNAME>LA GRANDE CREME RECHARGE 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/la-grande-creme-recharge</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/LA_GRANDE_CREME.jpg?v=1780400858</IMGURL>
+<PRICE_VAT>500</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693212342</EAN>
+<PRODUCTNO>GRCREME50R</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Náhradná náplň krému La Grande Creme</DESCRIPTION>
+<ITEMGROUP_ID>la-grande-creme-recharge</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/La_Grande_Creme_N_hradna_napln.webp?v=1781515052</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>la-grande-creme-50-ml</ITEM_ID>
+<PRODUCTNAME>LA GRANDE CREME 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/la-grande-creme</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_La_Grande_Creme_50ml-Compo_Coffret_RVB_MD.jpg?v=1780323288</IMGURL>
+<PRICE_VAT>590</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693207713</EAN>
+<PRODUCTNO>GRCREME50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Dokonalá regenerácia. Krém obsahuje EpigenActiv© – inovatívny peptid, ktorý preprogramuje gény, aby fungovali ako v mladosti. Prémiová anti-age starostlivosť Biologique Recherche</DESCRIPTION>
+<ITEMGROUP_ID>la-grande-creme</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_La_Grande_Creme_50ml-Pot_RVB_MD.jpg?v=1780323289</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/La_Grande_Creme_coffret_seul.jpg?v=1781515492</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/La_Grande_Creme_coffret_02.jpg?v=1781515492</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/La_Grande_Creme_presentation.jpg?v=1781515492</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-msr-h-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME MSR-H 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-msr-h</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_MSR-H_50ml_RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>248</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693201841</EAN>
+<PRODUCTNO>CRMSRH50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Omladzujúci krém. Proti starnutiu pleti v perimenopauze alebo postmenopauze</DESCRIPTION>
+<ITEMGROUP_ID>creme-msr-h</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_MSR-H_coffret_50ml_RVB_MD.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-masque-vernix-vg-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME MASQUE VERNIX VG 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-masque-vernix-vg</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Masque_Vernix_VG_50ml_RVB_MD.jpg?v=1780323288</IMGURL>
+<PRICE_VAT>165</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693211260</EAN>
+<PRODUCTNO>CRVERVG50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Regeneračná a ochranná starostlivosť pre citlivú, suchú, nevyživenú a stresovanú pleť</DESCRIPTION>
+<ITEMGROUP_ID>creme-masque-vernix-vg</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-collagene-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME COLLAGENE 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-collagene</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Collagene_50ml_RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>79</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693209571</EAN>
+<PRODUCTNO>CRCOL50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Krém na tvár obnovujúci hustotu pleti. Odporúčaný pre dehydrovanú a oslabenú pleť a pleť s rozšírenými pórmi</DESCRIPTION>
+<ITEMGROUP_ID>creme-collagene</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Collagene_50ml_etui_RVB_MD.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-iso-placenta-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME ISO PLACENTA 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-iso-placenta</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Iso-Placenta_etui_50ml_RVB_MD.jpg?v=1780396791</IMGURL>
+<PRICE_VAT>72</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693209410</EAN>
+<PRODUCTNO>CRIPLA50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Regeneračný krém pre pleť s nedokonalosťami, so stopami po akné,  jazvičkami a nerovnomernou štruktúrou</DESCRIPTION>
+<ITEMGROUP_ID>creme-iso-placenta</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Iso-Placenta_50ml_RVB_MD.jpg?v=1780396792</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-pigm-400-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME PIGM 400 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-pigm-400</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_PIGM_400-RVB_MD.jpg?v=1780457853</IMGURL>
+<PRICE_VAT>200</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693203791</EAN>
+<PRODUCTNO>CRPIGM50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rozjasňujúci krém korigujúci pigmentové škvrny. Odporúčaný pre matnú alebo nerovnomernú pleť a proti pigmentovým škvrnám</DESCRIPTION>
+<ITEMGROUP_ID>creme-pigm-400</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_PIGM_400_etui_RVB_MD.jpg?v=1781516531</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/hero_creme_pigm.jpg?v=1779965341</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-aux-acides-de-fruits-30-ml</ITEM_ID>
+<PRODUCTNAME>CREME AUX ACIDES DE FRUITS 30 ml 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-aux-acides-de-fruits</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_aux_Acides_de_Fruits_30ml_RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>92</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693209830</EAN>
+<PRODUCTNO>CRFRU30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Obnovujúci, rozjasňujúci a čistiaci krém na tvár. Odporúčaný pre zrelú pleť, pleť náchylnú na akné a pleť s nerovnomernou farebnosťou a/alebo pigmentáciami</DESCRIPTION>
+<ITEMGROUP_ID>creme-aux-acides-de-fruits</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_aux_Acides_de_Fruits_30ml_etui_perspective_RVB_MD.jpg?v=1780323288</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-m-e-c-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME M.E.C. 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-m-e-c</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/MEC_CREME_50ml.jpg?v=1780404069</IMGURL>
+<PRICE_VAT>172</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693214193</EAN>
+<PRODUCTNO>CRMECZA50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Bi-gél pre remodelizáciu epidermálnej štruktúry – tvár, krk a dekolt. Reštrukturalizačná anti-age starostlivosť pre pleť so stratou objemu. (MEC)</DESCRIPTION>
+<ITEMGROUP_ID>creme-m-e-c</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/20250821_BR_EDK_MEC_05_0114_F3A_540x960_3d563584-6144-4fbc-876a-6bb4cdc951a0.jpg?v=1780403480</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/MD_20250821_BR_EDK_MEC_02_0245_F5A.jpg?v=1780403482</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-biofixine-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME BIOFIXINE 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-biofixine</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Biofixine-RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>248</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693201865</EAN>
+<PRODUCTNO>CRBIOF50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Anti-vráskový krém na tvár vyhladzujúci jemné linky a vrásky. Omladzujúci pleťový krém pre pleť s vráskami</DESCRIPTION>
+<ITEMGROUP_ID>creme-biofixine</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Biofixine_etui_perspective-RVB_MD.jpg?v=1780323289</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-elastine-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME ELASTINE 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-elastine</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Elastine_50ml_RVB_MD.jpg?v=1780323288</IMGURL>
+<PRICE_VAT>72</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693209311</EAN>
+<PRODUCTNO>CRELAS50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Krém na tvár vyhladzujúci jemné linky a vrásky a pre pleť s prvými známkami starnutia</DESCRIPTION>
+<ITEMGROUP_ID>creme-elastine</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Elastine_etui_50ml_RVB_MD.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-pto-metamorphique-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME PTO METAMORPHIQUE 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-pto-metamorphique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/CREME_PTO_METAMORPHIQUE.jpg?v=1780403332</IMGURL>
+<PRICE_VAT>165</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693213592</EAN>
+<PRODUCTNO>CRPTOM50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Spevňujúci krém na kontúry tváre, spodného oválu a krku. Pre pleť, ktorej chýba pevnosť, štruktúra a jasné kontúry</DESCRIPTION>
+<ITEMGROUP_ID>creme-pto-metamorphique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/hero_creme_pto.jpg?v=1779965376</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/CREME_PTO_METAMORPHIQUE-ombre_002.jpg?v=1781517389</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-splendide-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME SPLENDIDE 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-splendide</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Splendide_50ml_RVB_MD.jpg?v=1780323289</IMGURL>
+<PRICE_VAT>160</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Špeciálna starostlivosť o pleť</CATEGORYTEXT>
+<EAN>3700693201674</EAN>
+<PRODUCTNO>CRSPL50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Spevňujúci krém na tvár pre pleť postrádajúcu pevnosť</DESCRIPTION>
+<ITEMGROUP_ID>creme-splendide</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Splendide_etui_face_50ml_RVB_MD.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-dermopurifiante-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME DERMOPURIFIANTE 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-dermopurifiante</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Dermopurifiante_50ml_RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>92</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201988</EAN>
+<PRODUCTNO>CRDER50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiaci krém na tvár pre pleť so sklonom k zvýšenej produkcii mazu a akné</DESCRIPTION>
+<ITEMGROUP_ID>creme-dermopurifiante</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Dermopurifiante_etui_50ml_RVB_MD.jpg?v=1780323288</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-vip-o2-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME VIP O2 50 ml (NEW) 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_VIP_O2_-_50ml_-_CRVIPO2.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>172</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693213868</EAN>
+<PRODUCTNO>CRVIPO250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Aktívny okyslíčujúci a hydratačný krém pre matnú a nevýraznú pleť</DESCRIPTION>
+<ITEMGROUP_ID>creme-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_VIP_O2_Pot_Etui_RVB.jpg?v=1780323288</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_VIPO2_50ml_RVB_HD.jpg?v=1781517802</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-grand-millesime-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME GRAND MILLESIME 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-grand-millesime</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Grand_Millesime-RVB_MD.jpg?v=1780323289</IMGURL>
+<PRICE_VAT>165</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201711</EAN>
+<PRODUCTNO>CRGM50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Revitalizačný krém odporúčaný pre pleť, ktorá stratila jas a vitalitu. Dodáva pleti okamžité rozžiarenie</DESCRIPTION>
+<ITEMGROUP_ID>creme-grand-millesime</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Grand_Millesime_etui_RVB_MD.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-v-espoir-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME V.ESPOIR 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-v-espoir</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/CREME_V_ESPOIR_POT_50ML.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>110</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693213929</EAN>
+<PRODUCTNO>CRVESP50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Intenzívny skľudňujúci krém pre citlivú pleť so sklonom k začervenaniu a pre pleť s rosacea</DESCRIPTION>
+<ITEMGROUP_ID>creme-v-espoir</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/CREME_V_ESPOIR_AVEC_ETUI_50ML.jpg?v=1780323289</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>emulsion-gel-biosensible-s-r-50-ml</ITEM_ID>
+<PRODUCTNAME>EMULSION GEL BIOSENSIBLE S.R. 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/emulsion-gel-biosensible-s-r</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Emulsion_Gel_Biosensible_S.R_RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>165</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693206440</EAN>
+<PRODUCTNO>EMBIOSSEBO50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Upokojujúci a sébum - regulačný pleťový gél. Odporúčaný pre citlivú pleť so sklonom k nadmernej tvorbe mazu</DESCRIPTION>
+<ITEMGROUP_ID>emulsion-gel-biosensible-s-r</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Emulsion_Gel_Biosensible_SR_b0c5ba17-27cc-4490-af82-312011cc99ca.jpg?v=1781518575</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>emulsion-gel-biosensible-50-ml</ITEM_ID>
+<PRODUCTNAME>EMULSION GEL BIOSENSIBLE 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/emulsion-gel-biosensible</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Emulsion_Gel_Biosensible_50ml.jpg?v=1781518574</IMGURL>
+<PRICE_VAT>165</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201940</EAN>
+<PRODUCTNO>EMBIOS50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Upokojujúci a hydratačný gél pre tvár. Odporúčaný pre citlivé, reaktívne alebo poškodené Skin Instants©</DESCRIPTION>
+<ITEMGROUP_ID>emulsion-gel-biosensible</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Emulsion_Gel_Biosensible_textura.jpg?v=1781518575</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-dermo-rl-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME DERMO-RL 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-dermo-rl</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Dermo_RL-RVB_MD.jpg?v=1780323288</IMGURL>
+<PRICE_VAT>165</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201926</EAN>
+<PRODUCTNO>CRDERL50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Regeneračný a hydratačný krém pre pleť s nedostatkom lipidov a výraznou dehydratáciou</DESCRIPTION>
+<ITEMGROUP_ID>creme-dermo-rl</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Creme_Dermo_RL_etui_perspective-RVB_MD.jpg?v=1780323288</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-vg-derm-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME VG DERM 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-vg-derm</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_VG_Derm_50ml_RVB_MD.jpg?v=1780323288</IMGURL>
+<PRICE_VAT>92</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201650</EAN>
+<PRODUCTNO>CRVGD50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Výživný a hydratačný krém pre pleť, ktorá je výrazne dehydrovaná a suchá</DESCRIPTION>
+<ITEMGROUP_ID>creme-vg-derm</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_VG_Derm_etui_50ml_RVB_MD.jpg?v=1780323289</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>gel-adn-silkgen-50-ml</ITEM_ID>
+<PRODUCTNAME>GEL ADN SILKGEN 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/gel-adn-silkgen</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Gel_ADN_Silkgen_50ml_RVB_MD.jpg?v=1780323289</IMGURL>
+<PRICE_VAT>172</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201902</EAN>
+<PRODUCTNO>GELADN50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Osviežujúci hydratačný fluid. Odporúčaný pre dehydrovanú pleť, ideálny aj pre mastnú a mužskú pleť a pleť vystavenú horúcemu podnebiu</DESCRIPTION>
+<ITEMGROUP_ID>gel-adn-silkgen</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Gel_ADN_Silkgen.jpg?v=1781518575</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>emulsion-originelle-regenerante-50-m</ITEM_ID>
+<PRODUCTNAME>EMULSION ORIGINELLE REGENERANTE 50 ml (EOR) 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/emulsion-originelle-regenerante</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Emulsion_Originelle_Regenerante_50ml_RVB_MD.jpg?v=1780323287</IMGURL>
+<PRICE_VAT>145</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201803</EAN>
+<PRODUCTNO>EMOR50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Regeneračný a hydratačný krém pre dehydrovanú pleť a/alebo pleť s nedostatkom lipidov</DESCRIPTION>
+<ITEMGROUP_ID>emulsion-originelle-regenerante</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>creme-hydravit-s-50-ml</ITEM_ID>
+<PRODUCTNAME>CREME HYDRAVIT'S 50 ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/creme-hydravit-s</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Hydravit_s_50ml_RVB_MD.jpg?v=1780323289</IMGURL>
+<PRICE_VAT>92</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové krémy</CATEGORYTEXT>
+<EAN>3700693201636</EAN>
+<PRODUCTNO>CRHYD50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Hydratačný krém pre dehydrovanú pleť, ktorá stratila vitalitu</DESCRIPTION>
+<ITEMGROUP_ID>creme-hydravit-s</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Creme_Hydravit_s_etui_50ml_RVB_MD.jpg?v=1780323287</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>cocktail-d-actifs-regenerants-boite-</ITEM_ID>
+<PRODUCTNAME>COCKTAIL D'ACTIFS REGENERANTS 10x5ml 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/cocktail-d-actifs-regenerants-boite-de-10-ampoules</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/COCTAIL-DACTIFS_REGENERANTS.jpg?v=1780397340</IMGURL>
+<PRICE_VAT>740</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201568</EAN>
+<PRODUCTNO>COCKTAILV</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Intenzívne revitalizačné sérum s vitamínmi a peptidmi pre viditeľne omladenú pleť. Odporúča sa pre Skin Instants® s výraznou stratou vitality, energie a výživy. Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>cocktail-d-actifs-regenerants-boite-</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-pigm-400-8-ml</ITEM_ID>
+<PRODUCTNAME>SERUM PIGM 400 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-pigm-400</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_PIGM_400_30ml_RVB_MD.jpg?v=1780397488</IMGURL>
+<PRICE_VAT>70</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693206860</EAN>
+<PRODUCTNO>PIGM8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rozjasňujúce sérum proti pigmentovým škvrnám pre pleť s mdlým vzhľadom a nerovnomernou pigmentáciou — Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>serum-pigm-400</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_PIGM_400_8ml_RVB_MD.jpg?v=1780397489</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-pigm-400-30-ml</ITEM_ID>
+<PRODUCTNAME>SERUM PIGM 400 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-pigm-400</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_PIGM_400_30ml_RVB_MD.jpg?v=1780397488</IMGURL>
+<PRICE_VAT>195</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693203852</EAN>
+<PRODUCTNO>PIGM30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rozjasňujúce sérum proti pigmentovým škvrnám pre pleť s mdlým vzhľadom a nerovnomernou pigmentáciou — Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>serum-pigm-400</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_PIGM_400_8ml_RVB_MD.jpg?v=1780397489</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-matriciel-visage-30-ml</ITEM_ID>
+<PRODUCTNAME>SERUM MATRICIEL VISAGE 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-matriciel-visage</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Matriciel_Visage_30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>195</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693206501</EAN>
+<PRODUCTNO>SEMATV30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sérum pre spevnenie a obnovenie kontúr tváre pre pleť so stratou pevnosti. —  Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>serum-matriciel-visage</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-biosensible-30-ml</ITEM_ID>
+<PRODUCTNAME>SERUM BIOSENSIBLE 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-biosensible</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Biosensible_30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>159</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693208666</EAN>
+<PRODUCTNO>BIOS30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Skľudňujúce sérum pre citlivú a reaktívnu pleť, redukuje začervenanie pleti —  Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>serum-biosensible</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-t-e-w-l-8-ml</ITEM_ID>
+<PRODUCTNAME>SERUM T.E.W.L. 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-t-e-w-l</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_T.E.W.L._30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201537</EAN>
+<PRODUCTNO>TEWL8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sérum doplňujúce lipidový "štít" pleti pre pleť postrádajúcu komfort a živiny. Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>serum-t-e-w-l</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_T.E.W.L._8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-t-e-w-l-30-ml</ITEM_ID>
+<PRODUCTNAME>SERUM T.E.W.L. 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-t-e-w-l</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_T.E.W.L._30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>159</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201544</EAN>
+<PRODUCTNO>TEWL30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sérum doplňujúce lipidový "štít" pleti pre pleť postrádajúcu komfort a živiny. Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>serum-t-e-w-l</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_T.E.W.L._8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-erythros-30-ml</ITEM_ID>
+<PRODUCTNAME>SERUM ERYTHROS 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-erythros</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_Erythros_30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>120</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693204187</EAN>
+<PRODUCTNO>ERYTH30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Anti-Rosacea Sérum — pleťové sérum redukujúce začervenanie.  Prémiový produkt Biologique Recherche z kategórie Cielené séra</DESCRIPTION>
+<ITEMGROUP_ID>serum-erythros</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>liposmose-8-ml</ITEM_ID>
+<PRODUCTNAME>LIPOSMOSE 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/liposmose</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Liposmose_30ml_RVB_MD.jpg?v=1780323427</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693209724</EAN>
+<PRODUCTNO>SELIP8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Vyhladzujúce sérum proti opuchom a známkam únavy očného okolia. Odporúča sa pre Skin Instants® s tukovými vačkami a opuchmi pod očami. Sérum Authentique. EAN: 3700693209724 s</DESCRIPTION>
+<ITEMGROUP_ID>liposmose</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Liposmose_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>liposmose-30-ml</ITEM_ID>
+<PRODUCTNAME>LIPOSMOSE 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/liposmose</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Liposmose_30ml_RVB_MD.jpg?v=1780323427</IMGURL>
+<PRICE_VAT>100</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693209731</EAN>
+<PRODUCTNO>SELIP30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Vyhladzujúce sérum proti opuchom a známkam únavy očného okolia. Odporúča sa pre Skin Instants® s tukovými vačkami a opuchmi pod očami. Sérum Authentique. EAN: 3700693209724 s</DESCRIPTION>
+<ITEMGROUP_ID>liposmose</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Liposmose_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>oligo-proteines-marines-serum-authentique-8-ml</ITEM_ID>
+<PRODUCTNAME>OLIGO-PROTEINES MARINES 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/oligo-proteines-marines-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Oligo-Proteines-Marines-30ml-RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>33</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201391</EAN>
+<PRODUCTNO>SEOPM8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Energizujúce sérum proti tmavým kruhom a známkam únavy. Odporúča sa pre Skin Instants® s mdlým vzhľadom a tmavými kruhmi pod očami. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>oligo-proteines-marines-serum-authentique-8-ml</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Oligo-Proteines-Marines-8ml-RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>oligo-proteines-marines-serum-authentique-30-ml</ITEM_ID>
+<PRODUCTNAME>OLIGO-PROTEINES MARINES 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/oligo-proteines-marines-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Oligo-Proteines-Marines-30ml-RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>89</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201407</EAN>
+<PRODUCTNO>SEOPM30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Energizujúce sérum proti tmavým kruhom a známkam únavy. Odporúča sa pre Skin Instants® s mdlým vzhľadom a tmavými kruhmi pod očami. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>oligo-proteines-marines-serum-authentique-30-ml</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Oligo-Proteines-Marines-8ml-RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>dermopore-serum-authentique-8-ml</ITEM_ID>
+<PRODUCTNAME>DERMOPORE 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/dermopore-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_DERMOPORE_30ML_auth.jpg?v=1780397871</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693204057</EAN>
+<PRODUCTNO>SEDERMOP8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sérum na rozšírené póry a reguláciu mazotvorby. Odporúča sa pre Skin Instants® s rozšírenými pórmi. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>dermopore-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Dermopore_8ml_cestovne_balenie.jpg?v=1781520000</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Dermopore_30ml_top.jpg?v=1781519907</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Dermopore_8ml_top.jpg?v=1781519963</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>dermopore-serum-authentique-30-ml</ITEM_ID>
+<PRODUCTNAME>DERMOPORE 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/dermopore-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_DERMOPORE_30ML_auth.jpg?v=1780397871</IMGURL>
+<PRICE_VAT>100</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693204064</EAN>
+<PRODUCTNO>SEDERMOP30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sérum na rozšírené póry a reguláciu mazotvorby. Odporúča sa pre Skin Instants® s rozšírenými pórmi. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>dermopore-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Dermopore_8ml_cestovne_balenie.jpg?v=1781520000</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Dermopore_30ml_top.jpg?v=1781519907</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Dermopore_8ml_top.jpg?v=1781519963</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>iso-placenta-8-ml</ITEM_ID>
+<PRODUCTNAME>ISO PLACENTA 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/iso-placenta</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Iso-Placenta_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693209618</EAN>
+<PRODUCTNO>SEIPLA8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Intenzívna regenerácia pre poškodenú pleť. Odporúča sa pre Skin Instants® s nedokonalosťami a poškodením po akné. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>iso-placenta</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Iso-Placenta_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>iso-placenta-30-ml</ITEM_ID>
+<PRODUCTNAME>ISO PLACENTA 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/iso-placenta</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Iso-Placenta_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>100</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693209625</EAN>
+<PRODUCTNO>SEIPLA30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Intenzívna regenerácia pre poškodenú pleť. Odporúča sa pre Skin Instants® s nedokonalosťami a poškodením po akné. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>iso-placenta</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Iso-Placenta_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>complexe-iribiol-serum-authentique-8</ITEM_ID>
+<PRODUCTNAME>COMPLEXE IRIBIOL 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/complexe-iribiol-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Iribiol_30_ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>33</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201438</EAN>
+<PRODUCTNO>SEIR8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rebalančné a čistiace sérum na tvár. Odporúča sa pre Skin Instants® so sklonom k nadmernej tvorbe mazu a akné. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>complexe-iribiol-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_iribiol_8_ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>complexe-iribiol-serum-authentique-3</ITEM_ID>
+<PRODUCTNAME>COMPLEXE IRIBIOL 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/complexe-iribiol-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_Iribiol_30_ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>89</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201445</EAN>
+<PRODUCTNO>SEIR30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rebalančné a čistiace sérum na tvár. Odporúča sa pre Skin Instants® so sklonom k nadmernej tvorbe mazu a akné. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>complexe-iribiol-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Complexe_iribiol_8_ml_RVB_MD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>progeskin-8-ml</ITEM_ID>
+<PRODUCTNAME>PROGESKIN 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/progeskin</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_PROGESKIN_30ML.jpg?v=1780397976</IMGURL>
+<PRICE_VAT>63</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693211307</EAN>
+<PRODUCTNO>SEPROG8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Obnovujúce Anti-Age sérum pre omladenie pleti a spomalenie starnutia. Odporúča sa pre Skin Instants® so známkami starnutia. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>progeskin</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Progeskin_8ml.jpg?v=1781519726</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Progeskin_8ml_2.jpg?v=1781519677</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Progeskin_8ml_3.jpg?v=1781519677</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>progeskin-30-ml</ITEM_ID>
+<PRODUCTNAME>PROGESKIN 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/progeskin</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_PROGESKIN_30ML.jpg?v=1780397976</IMGURL>
+<PRICE_VAT>157</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693211314</EAN>
+<PRODUCTNO>SEPROG30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Obnovujúce Anti-Age sérum pre omladenie pleti a spomalenie starnutia. Odporúča sa pre Skin Instants® so známkami starnutia. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>progeskin</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Progeskin_8ml.jpg?v=1781519726</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Progeskin_8ml_2.jpg?v=1781519677</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Progeskin_8ml_3.jpg?v=1781519677</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-a-glyca-serum-authentique-8-ml</ITEM_ID>
+<PRODUCTNAME>SERUM A-GLYCA 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-a-glyca-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_A-Glyca_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693206815</EAN>
+<PRODUCTNO>SEAGLYCA8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Anti-Glykačné a anti-vráskové sérum. Odporúča sa pre Skin Instants® so známkami starnutia. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>serum-a-glyca-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_A-Glyca_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>serum-a-glyca-serum-authentique-30-m</ITEM_ID>
+<PRODUCTNAME>SERUM A-GLYCA 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/serum-a-glyca-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_A-Glyca_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>149</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693206822</EAN>
+<PRODUCTNO>SEAGLYCA30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Anti-Glykačné a anti-vráskové sérum. Odporúča sa pre Skin Instants® so známkami starnutia. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>serum-a-glyca-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Serum_A-Glyca_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>spectral-8-ml</ITEM_ID>
+<PRODUCTNAME>SPECTRAL 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/spectral</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_SPECTRAL_30ml.jpg?v=1780388274</IMGURL>
+<PRICE_VAT>63</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693214322</EAN>
+<PRODUCTNO>SESPECZA8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Aktivátor prirodzených mechanizmov foto-rezistencie pleti. Odporúča sa pre Skin Instants® bez jasu a vitality. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>spectral</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Spectral_8ml_1.jpg?v=1781520066</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Spectral_30ml_1.jpg?v=1781520066</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Spectral_8ml_top.jpg?v=1781520188</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>spectral-30-ml</ITEM_ID>
+<PRODUCTNAME>SPECTRAL 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/spectral</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/SERUM_SPECTRAL_30ml.jpg?v=1780388274</IMGURL>
+<PRICE_VAT>157</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693214346</EAN>
+<PRODUCTNO>SESPECZA30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Aktivátor prirodzených mechanizmov foto-rezistencie pleti. Odporúča sa pre Skin Instants® bez jasu a vitality. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>spectral</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Spectral_8ml_1.jpg?v=1781520066</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Spectral_30ml_1.jpg?v=1781520066</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Spectral_8ml_top.jpg?v=1781520188</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>vg-tensil-serum-authentique-8-ml</ITEM_ID>
+<PRODUCTNAME>VG TENSIL 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/vg-tensil-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_30ml_old.jpg?v=1781519489</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201353</EAN>
+<PRODUCTNO>SEVGT8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Spevňujúce pleťové sérum. Odporúčané pre Skin Instants® so známkami ochabnutia a straty pevnosti. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>vg-tensil-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_8ml_old.jpg?v=1781519518</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_8ml_2.jpg?v=1781519488</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_30ml_2.jpg?v=1781519489</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>vg-tensil-serum-authentique-30-ml</ITEM_ID>
+<PRODUCTNAME>VG TENSIL 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/vg-tensil-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_30ml_old.jpg?v=1781519489</IMGURL>
+<PRICE_VAT>149</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693201360</EAN>
+<PRODUCTNO>SEVGT30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Spevňujúce pleťové sérum. Odporúčané pre Skin Instants® so známkami ochabnutia a straty pevnosti. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>vg-tensil-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_8ml_old.jpg?v=1781519518</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_8ml_2.jpg?v=1781519488</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/VG_Tensil_30ml_2.jpg?v=1781519489</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>collagene-originel-8-ml</ITEM_ID>
+<PRODUCTNAME>COLLAGENE ORIGINEL 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/collagene-originel</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Collagene_Originel_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>63</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210614</EAN>
+<PRODUCTNO>SECOLOR8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>3D spevňujúce sérum proti vráskam a pre obnovu hustoty pleti. Odporúčané pre Skin Instants® so známkami vrások. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>collagene-originel</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Collagene_Originel_8ml_RVB_MD.jpg?v=1780323427</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>collagene-originel-30-ml</ITEM_ID>
+<PRODUCTNAME>COLLAGENE ORIGINEL 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/collagene-originel</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Collagene_Originel_30ml_RVB_MD.jpg?v=1780323426</IMGURL>
+<PRICE_VAT>157</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210621</EAN>
+<PRODUCTNO>SECOLOR30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>3D spevňujúce sérum proti vráskam a pre obnovu hustoty pleti. Odporúčané pre Skin Instants® so známkami vrások. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>collagene-originel</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Collagene_Originel_8ml_RVB_MD.jpg?v=1780323427</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>elastine-serum-authentique-8-ml</ITEM_ID>
+<PRODUCTNAME>ELASTINE 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/elastine-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Elastine_30ml_RVB_HD_1.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693208253</EAN>
+<PRODUCTNO>SEELAS8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sérum proti vráskám. Odporúčané pre Skin Instants® s vráskami. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>elastine-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Elastine_8ml_RVB_HD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>elastine-serum-authentique-30-ml</ITEM_ID>
+<PRODUCTNAME>ELASTINE 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/elastine-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Elastine_30ml_RVB_HD_1.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>100</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693208260</EAN>
+<PRODUCTNO>SEELAS30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Sérum proti vráskám. Odporúčané pre Skin Instants® s vráskami. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>elastine-serum-authentique</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Elastine_8ml_RVB_HD.jpg?v=1780323425</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>colostrum-vg-8-ml</ITEM_ID>
+<PRODUCTNAME>COLOSTRUM VG 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/colostrum-vg</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Colostrum_VG_30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>63</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210034</EAN>
+<PRODUCTNO>SECOLVG8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Základné hydratačné sérum +++ Odporúčané pre Skin Instants® postrádajúce lipidy, suchú a nevyživenú pleť. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>colostrum-vg</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Colostrum_VG_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>colostrum-vg-30-ml</ITEM_ID>
+<PRODUCTNAME>COLOSTRUM VG 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/colostrum-vg</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Colostrum_VG_30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>157</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210041</EAN>
+<PRODUCTNO>SECOLVG30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Základné hydratačné sérum +++ Odporúčané pre Skin Instants® postrádajúce lipidy, suchú a nevyživenú pleť. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>colostrum-vg</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Colostrum_VG_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>amniotique-vg-8-ml</ITEM_ID>
+<PRODUCTNAME>AMNIOTIQUE VG 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/amniotique-vg</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Amniotique_VG_30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210065</EAN>
+<PRODUCTNO>SEAMVG8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Základné hydratačné sérum ++ Odporúčané pre dehydratované Skin Instants®. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>amniotique-vg</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Amniotique_VG_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>amniotique-vg-30-ml</ITEM_ID>
+<PRODUCTNAME>AMNIOTIQUE VG 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/amniotique-vg</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Amniotique_VG_30ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>149</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693210072</EAN>
+<PRODUCTNO>SEAMVG30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Základné hydratačné sérum ++ Odporúčané pre dehydratované Skin Instants®. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>amniotique-vg</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Amniotique_VG_8ml_RVB_MD.jpg?v=1780323426</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>extraits-tissulaires-serum-authentique-8-ml</ITEM_ID>
+<PRODUCTNAME>EXTRAITS TISSULAIRES 8 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/extraits-tissulaires-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Extraits_Tissulaires_8ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>33</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693208352</EAN>
+<PRODUCTNO>SEEXTR8</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Základné hydratačné sérum + Odporúčané pre Skin Instants® so známkami dehydratácie a seboroickú pleť. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>extraits-tissulaires-serum-authentique-8-ml</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>8 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>extraits-tissulaires-serum-authentique-30-ml</ITEM_ID>
+<PRODUCTNAME>EXTRAITS TISSULAIRES 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/extraits-tissulaires-serum-authentique</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Extraits_Tissulaires_8ml_RVB_MD.jpg?v=1780323425</IMGURL>
+<PRICE_VAT>89</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové séra, emulzie a koncentráty</CATEGORYTEXT>
+<EAN>3700693208369</EAN>
+<PRODUCTNO>SEEXTR30</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Základné hydratačné sérum + Odporúčané pre Skin Instants® so známkami dehydratácie a seboroickú pleť. Sérum Authentique</DESCRIPTION>
+<ITEMGROUP_ID>extraits-tissulaires-serum-authentique-30-ml</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-caviar-vert-1-unite-1-plat</ITEM_ID>
+<PRODUCTNAME>MASQUE CAVIAR VERT 1 plát</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-caviar-vert-1-unite</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Masque_Caviar_Vert_Sachet_Retail_RVB_MD.jpg?v=1780323357</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693211086</EAN>
+<PRODUCTNO>MACAVV</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Anti-vrásková a vyhladzujúca plátenková maska. Pre pleť so známkami stárnutia a/alebo nerovným povrchom (1 pár | 12 ML)</DESCRIPTION>
+<ITEMGROUP_ID>masque-caviar-vert-1-unite</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/hero_visage.jpg?v=1779965259</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Obsah</PARAM_NAME>
+<VAL>1 plát</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>toleskin-m-1-unite-1-plat</ITEM_ID>
+<PRODUCTNAME>TOLESKIN [M] 1 plát</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/toleskin-m-1-unite</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/MASQUE_TOLESKIN.jpg?v=1781109420</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693209809</EAN>
+<PRODUCTNO>MATOL</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ukľudňujúca maska pre vysoko citlivú, reaktívnu a ekzematickú pleť (1 plát | 15 ML)</DESCRIPTION>
+<ITEMGROUP_ID>toleskin-m-1-unite</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/hero_visage.jpg?v=1779965259</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Obsah</PARAM_NAME>
+<VAL>1 plát</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-pigm-400-1-sachets-de-1-plat</ITEM_ID>
+<PRODUCTNAME>MASQUE PIGM 400 1 plát</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-pigm-400-1-sachets-de</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Masque_PIGM_400_RVB_MD.jpg?v=1780323357</IMGURL>
+<PRICE_VAT>30</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693212007</EAN>
+<PRODUCTNO>MAPIGM</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Rozjasňujúca pleťová maska pre žiarivý vzhľad. Pre pleť s pigmentovými škvrnami a mdlým tónom (1 pár | 18 ML)</DESCRIPTION>
+<ITEMGROUP_ID>masque-pigm-400-1-sachets-de</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/hero_visage.jpg?v=1779965259</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Obsah</PARAM_NAME>
+<VAL>1 plát</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>patchs-defatigants-1-sachet-1-par</ITEM_ID>
+<PRODUCTNAME>PATCHS DEFATIGANTS 1 pár</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/patchs-defatigants-1-sachet</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/BR_Patch_Defatigant_seul_RVB_MD.jpg?v=1781109734</IMGURL>
+<PRICE_VAT>24</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693210553</EAN>
+<PRODUCTNO>PADEF1</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Vyhlazujúca plátenková maska na očné okolie proti vráskam a opuchom (1 pár | 6 ML)</DESCRIPTION>
+<ITEMGROUP_ID>patchs-defatigants-1-sachet</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PATCHS_DEFATIGANTS.jpg?v=1780398296</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Obsah</PARAM_NAME>
+<VAL>1 pár</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-biofixine-100-ml</ITEM_ID>
+<PRODUCTNAME>MASQUE BIOFIXINE 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-biofixine</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Masque_Biofixine.jpg?v=1780399850</IMGURL>
+<PRICE_VAT>152</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693209908</EAN>
+<PRODUCTNO>MABIOF100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Pleťová maska proti stárnutiu a vráskám</DESCRIPTION>
+<ITEMGROUP_ID>masque-biofixine</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-biosensible-100-ml</ITEM_ID>
+<PRODUCTNAME>MASQUE BIOSENSIBLE 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-biosensible</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Masque_Biosensible_100ml_RVB_HD.jpg?v=1780323356</IMGURL>
+<PRICE_VAT>152</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693208192</EAN>
+<PRODUCTNO>MABIOS100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ukľudňujúca a hydratačna maska pre citlivú, krehkú a reaktívnu pleť</DESCRIPTION>
+<ITEMGROUP_ID>masque-biosensible</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Masque_Biosensible_100ml_Etui_RVB_HD.jpg?v=1780323357</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-vip-o2-100-ml</ITEM_ID>
+<PRODUCTNAME>MASQUE VIP O2 100 ml (NEW) 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/MASQUE_VIP_02.jpg?v=1780387760</IMGURL>
+<PRICE_VAT>152</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693213677</EAN>
+<PRODUCTNO>MAVIPO2100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Okysličujúca, hydratačná a Anti-Pollution maska pre matnú a nevýraznú pleť postrádajúcu žiaru</DESCRIPTION>
+<ITEMGROUP_ID>masque-vip-o2</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>biomagic-mask-100-ml</ITEM_ID>
+<PRODUCTNAME>BIOMAGIC MASK 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/biomagic-mask</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Biomagic_Mask_100ml_RVB_HD.jpg?v=1780323357</IMGURL>
+<PRICE_VAT>152</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693200905</EAN>
+<PRODUCTNO>MABIOMAG100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Energizujúca pleťová maska pre mdlú, unavenú pleť s rozšírenými pórmi, nadmernou tvorbou mazu alebo stratou pevnosti</DESCRIPTION>
+<ITEMGROUP_ID>biomagic-mask</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-visolastine-100-ml</ITEM_ID>
+<PRODUCTNAME>MASQUE VISOLASTINE+ 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-visolastine</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Masque_Visolastine___100ml_RVB_MD.jpg?v=1780985395</IMGURL>
+<PRICE_VAT>100</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693207423</EAN>
+<PRODUCTNO>MAVISP100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Intenzívna a dlhotrvajúca hydratácia pre obnovu elasticity, jemnosti a komfortu suchej a dehydrovanej pleti.</DESCRIPTION>
+<ITEMGROUP_ID>masque-visolastine</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Masque_Visolastine_box_100ml_RVB_MD.jpg?v=1780985424</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-vivant-100-ml</ITEM_ID>
+<PRODUCTNAME>MASQUE VIVANT 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-vivant</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Masque_Vivant_100ml_RVB_MD.jpg?v=1780985480</IMGURL>
+<PRICE_VAT>70</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693200783</EAN>
+<PRODUCTNO>MAVIV100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiaca a rebalančná anti-akné pleťová maska pre pleť náchylnú na nadmernú tvorbu mazu a nedokonalosti</DESCRIPTION>
+<ITEMGROUP_ID>masque-vivant</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Masque_Vivant_100ml_RVB_HD.jpg?v=1780323357</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>masque-bain-de-plantes-100-ml</ITEM_ID>
+<PRODUCTNAME>MASQUE BAIN DE PLANTES 100 ml 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/masque-bain-de-plantes</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Masque_Bain_de_Plantes_100ml_RVB_MD.jpg?v=1780323357</IMGURL>
+<PRICE_VAT>70</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Starostlivosť o pleť | Pleťové masky</CATEGORYTEXT>
+<EAN>3700693203265</EAN>
+<PRODUCTNO>BAINP100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiaca a sébum-regulujúca maska pre nadmerne sa mastiacu pleť a vlasy</DESCRIPTION>
+<ITEMGROUP_ID>masque-bain-de-plantes</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-mc-110-n-1-30-ml</ITEM_ID>
+<PRODUCTNAME>LOTION MC 110 N°1 30 ml 30 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-mc-110-n-1</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_MC_110_N_1-_30ml_RVB_MD.jpg?v=1780323326</IMGURL>
+<PRICE_VAT>98</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200592</EAN>
+<PRODUCTNO>LOMC130</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Lotion MC110 N°1 – vypĺňajúca a obnovujúca pleťová kúra. Reštrukturujúci, čistiaci a spevňující booster</DESCRIPTION>
+<ITEMGROUP_ID>lotion-mc-110-n-1</ITEMGROUP_ID>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>30 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>l-eauxygenante-50-ml</ITEM_ID>
+<PRODUCTNAME>L’Eauxygénante® 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/l-eauxygenante</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/L_EAUXYGENANTE_50ml_CMJN_HD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>54</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200561</EAN>
+<PRODUCTNO>LOEAU50N</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Hydratačná a okyslíčujúca hmla — Hmla na prípravu a hydratáciu pokožky. Odporúčaná pre všetky typy pleti© vrátane citlivej</DESCRIPTION>
+<ITEMGROUP_ID>l-eauxygenante</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/L_EAUXYGENANTE_etui_150ml_CMJN_HD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>l-eauxygenante-150-ml</ITEM_ID>
+<PRODUCTNAME>L’Eauxygénante® 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/l-eauxygenante</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/L_EAUXYGENANTE_50ml_CMJN_HD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>116</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200578</EAN>
+<PRODUCTNO>LOEAU150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Hydratačná a okyslíčujúca hmla — Hmla na prípravu a hydratáciu pokožky. Odporúčaná pre všetky typy pleti© vrátane citlivej</DESCRIPTION>
+<ITEMGROUP_ID>l-eauxygenante</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/L_EAUXYGENANTE_etui_150ml_CMJN_HD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-pigm-400-50-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50 PIGM 400 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50-pigm-400</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_150ml_RVB_MD.jpg?v=1780323326</IMGURL>
+<PRICE_VAT>30</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693207126</EAN>
+<PRODUCTNO>LOP5PIGM50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Exfoliačný lotion pre jemnú a pigmentovanú pleť. Špeciálna formula s depigmentačnými účinnými látkami pomáha zjednocovať tón pleti, rozjasňovať tmavé škvrny a pigmentácie. Jemne exfoliuje bez podráždenia a zvyšuje účinnosť následnej starostlivosti</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50-pigm-400</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-pigm-400-150-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50 PIGM 400 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50-pigm-400</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_150ml_RVB_MD.jpg?v=1780323326</IMGURL>
+<PRICE_VAT>74</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693207133</EAN>
+<PRODUCTNO>LOP5PIGM150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Exfoliačný lotion pre jemnú a pigmentovanú pleť. Špeciálna formula s depigmentačnými účinnými látkami pomáha zjednocovať tón pleti, rozjasňovať tmavé škvrny a pigmentácie. Jemne exfoliuje bez podráždenia a zvyšuje účinnosť následnej starostlivosti</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50-pigm-400</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-pigm-400-250-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50 PIGM 400 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50-pigm-400</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_150ml_RVB_MD.jpg?v=1780323326</IMGURL>
+<PRICE_VAT>114</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693207140</EAN>
+<PRODUCTNO>LOP5PIGM250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Exfoliačný lotion pre jemnú a pigmentovanú pleť. Špeciálna formula s depigmentačnými účinnými látkami pomáha zjednocovať tón pleti, rozjasňovať tmavé škvrny a pigmentácie. Jemne exfoliuje bez podráždenia a zvyšuje účinnosť následnej starostlivosti</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50-pigm-400</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_PIGM_400_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50w-50-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50W 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50w</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_150ml_RVB_MD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>30</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200295</EAN>
+<PRODUCTNO>LOP5W50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Jemný exfoliačný a čistiaci lotion pre jemnú, citlivú a/alebo tenkú pleť. Šetrná verzia ikonickej Lotion P50 ideálna pre prvé používanie P50 alebo pre reaktívnu pleť. Zlepšuje textúru, hydratuje a udržuje vyvážené pH pleti</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50w</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50w-150-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50W 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50w</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_150ml_RVB_MD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>74</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200301</EAN>
+<PRODUCTNO>LOP5W150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Jemný exfoliačný a čistiaci lotion pre jemnú, citlivú a/alebo tenkú pleť. Šetrná verzia ikonickej Lotion P50 ideálna pre prvé používanie P50 alebo pre reaktívnu pleť. Zlepšuje textúru, hydratuje a udržuje vyvážené pH pleti</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50w</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50w-250-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50W 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50w</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_150ml_RVB_MD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>114</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200318</EAN>
+<PRODUCTNO>LOP5W250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Jemný exfoliačný a čistiaci lotion pre jemnú, citlivú a/alebo tenkú pleť. Šetrná verzia ikonickej Lotion P50 ideálna pre prvé používanie P50 alebo pre reaktívnu pleť. Zlepšuje textúru, hydratuje a udržuje vyvážené pH pleti</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50w</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50W_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50v-50-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50V 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50v</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_150ml_RVB_MD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>30</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200240</EAN>
+<PRODUCTNO>LOP5V50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Exfoliačný a čistiaci lotion pre zrelú, povädlú pleť s vráskmi. Jemná verzia Lotion P50 obohatená o aktívne látky pôsobiace proti starnutiu. Zvyšuje priepustnosť pleti, stimuluje bunkovú obnovu a pomáha vyhladzovať jemné linky</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50v</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_50ml_RVB_MD.jpg?v=1780323326</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50v-150-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50V 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50v</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_150ml_RVB_MD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>74</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200257</EAN>
+<PRODUCTNO>LOP5V150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Exfoliačný a čistiaci lotion pre zrelú, povädlú pleť s vráskmi. Jemná verzia Lotion P50 obohatená o aktívne látky pôsobiace proti starnutiu. Zvyšuje priepustnosť pleti, stimuluje bunkovú obnovu a pomáha vyhladzovať jemné linky</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50v</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_50ml_RVB_MD.jpg?v=1780323326</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50v-250-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50V 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50v</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_150ml_RVB_MD.jpg?v=1780323325</IMGURL>
+<PRICE_VAT>114</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200264</EAN>
+<PRODUCTNO>LOP5V250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Exfoliačný a čistiaci lotion pre zrelú, povädlú pleť s vráskmi. Jemná verzia Lotion P50 obohatená o aktívne látky pôsobiace proti starnutiu. Zvyšuje priepustnosť pleti, stimuluje bunkovú obnovu a pomáha vyhladzovať jemné linky</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50v</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_50ml_RVB_MD.jpg?v=1780323326</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50V_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-50-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_150ml_RVB_MD.jpg?v=1780323326</IMGURL>
+<PRICE_VAT>30</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200196</EAN>
+<PRODUCTNO>LOP550</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ikonický multifunkčný pleťový exfoliant Lotion P50 — základ každej BR rutiny pre mastnú pleť a pleť so sklonom k akné. Exfoliuje, čistí a prečisťuje epidermis a pomáha udržiavať rovnováhu kyslého pH. Vďaka pravidelnej aplikácii sa pleť zmatňuje, revitalizuje a stáva sa priepustnejšou pre séra a krémy, čím sa dramaticky násobí ich účinnosť</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-150-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_150ml_RVB_MD.jpg?v=1780323326</IMGURL>
+<PRICE_VAT>74</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200202</EAN>
+<PRODUCTNO>LOP5150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ikonický multifunkčný pleťový exfoliant Lotion P50 — základ každej BR rutiny pre mastnú pleť a pleť so sklonom k akné. Exfoliuje, čistí a prečisťuje epidermis a pomáha udržiavať rovnováhu kyslého pH. Vďaka pravidelnej aplikácii sa pleť zmatňuje, revitalizuje a stáva sa priepustnejšou pre séra a krémy, čím sa dramaticky násobí ich účinnosť</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lotion-p50-250-ml</ITEM_ID>
+<PRODUCTNAME>Lotion P50 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lotion-p50</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_150ml_RVB_MD.jpg?v=1780323326</IMGURL>
+<PRICE_VAT>114</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti | Pleťová toniká</CATEGORYTEXT>
+<EAN>3700693200219</EAN>
+<PRODUCTNO>LOP5250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Ikonický multifunkčný pleťový exfoliant Lotion P50 — základ každej BR rutiny pre mastnú pleť a pleť so sklonom k akné. Exfoliuje, čistí a prečisťuje epidermis a pomáha udržiavať rovnováhu kyslého pH. Vďaka pravidelnej aplikácii sa pleť zmatňuje, revitalizuje a stáva sa priepustnejšou pre séra a krémy, čím sa dramaticky násobí ich účinnosť</DESCRIPTION>
+<ITEMGROUP_ID>lotion-p50</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_50ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Lotion_P50_250ml_RVB_MD.jpg?v=1780323325</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>eau-micellaire-biosensible-100-ml</ITEM_ID>
+<PRODUCTNAME>Micelárna voda Biosensible 100 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/eau-micellaire-biosensible</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Eau_Micellaire_Biosensible_100ml_RVB_MD.jpg?v=1780323060</IMGURL>
+<PRICE_VAT>45</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693204460</EAN>
+<PRODUCTNO>EAUMB100</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiaca micelárna voda špeciálne vyvinutá pre citlivú a intolerantnú pleť. Jemne odstraňuje make-up bez trenia vrátane vodeodolného rúžu. Neobsahuje alkohol ani parfum, minimalizuje riziko podráždenia</DESCRIPTION>
+<ITEMGROUP_ID>eau-micellaire-biosensible</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Eau_Micellaire_Biosensible_250ml_RVB_MD.jpg?v=1780367519</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>100 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>eau-micellaire-biosensible-250-ml</ITEM_ID>
+<PRODUCTNAME>Micelárna voda Biosensible 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/eau-micellaire-biosensible</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Eau_Micellaire_Biosensible_100ml_RVB_MD.jpg?v=1780323060</IMGURL>
+<PRICE_VAT>65</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693203975</EAN>
+<PRODUCTNO>EAUMB250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiaca micelárna voda špeciálne vyvinutá pre citlivú a intolerantnú pleť. Jemne odstraňuje make-up bez trenia vrátane vodeodolného rúžu. Neobsahuje alkohol ani parfum, minimalizuje riziko podráždenia</DESCRIPTION>
+<ITEMGROUP_ID>eau-micellaire-biosensible</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/PK_Eau_Micellaire_Biosensible_250ml_RVB_MD.jpg?v=1780367519</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-vip-o2-50-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko VIP O2 (NEW) 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_250ml_-_LAVIPO2.jpg?v=1780323060</IMGURL>
+<PRICE_VAT>25</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693213790</EAN>
+<PRODUCTNO>LAVIPO250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Aktívne čistiace mlieko pre unavenú, devitalizovanú a mestskú pleť. Anti-pollution formula okysličuje pleť, odstraňuje make-up, nečistoty vrátane mikročastíc znečistenia. Rozjasňuje, revitalizuje a tonizuje pre žiarivejší a sviežejší vzhľad</DESCRIPTION>
+<ITEMGROUP_ID>lait-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_150ml.jpg?v=1780323060</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_50ml.jpg?v=1780323060</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-vip-o2-150-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko VIP O2 (NEW) 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_250ml_-_LAVIPO2.jpg?v=1780323060</IMGURL>
+<PRICE_VAT>45</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693213806</EAN>
+<PRODUCTNO>LAVIPO2150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Aktívne čistiace mlieko pre unavenú, devitalizovanú a mestskú pleť. Anti-pollution formula okysličuje pleť, odstraňuje make-up, nečistoty vrátane mikročastíc znečistenia. Rozjasňuje, revitalizuje a tonizuje pre žiarivejší a sviežejší vzhľad</DESCRIPTION>
+<ITEMGROUP_ID>lait-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_150ml.jpg?v=1780323060</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_50ml.jpg?v=1780323060</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-vip-o2-250-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko VIP O2 (NEW) 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-vip-o2</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_250ml_-_LAVIPO2.jpg?v=1780323060</IMGURL>
+<PRICE_VAT>65</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693213813</EAN>
+<PRODUCTNO>LAVIPO2250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Aktívne čistiace mlieko pre unavenú, devitalizovanú a mestskú pleť. Anti-pollution formula okysličuje pleť, odstraňuje make-up, nečistoty vrátane mikročastíc znečistenia. Rozjasňuje, revitalizuje a tonizuje pre žiarivejší a sviežejší vzhľad</DESCRIPTION>
+<ITEMGROUP_ID>lait-vip-o2</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_150ml.jpg?v=1780323060</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_VIP_O2_-_50ml.jpg?v=1780323060</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-e-v-50-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko E.V. 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-e-v</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_150ml_CMJN_HD.jpg?v=1780387840</IMGURL>
+<PRICE_VAT>25</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693210386</EAN>
+<PRODUCTNO>LAEV50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace mlieko pre dehydrovanú, suchú a zrelú pleť. Výživná formula s rastlinnými olejmi jemne čistí a súčasne vyživuje pokožku. Obnovuje lipidový film pleti, zanecháva ju mäkkú, pohodlnú a hydratovanú bez pocitu stiahnutia</DESCRIPTION>
+<ITEMGROUP_ID>lait-e-v</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_250ml_CMJN_HD.jpg?v=1780387839</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_50ml_CMJN_HD.jpg?v=1780970483</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-e-v-150-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko E.V. 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-e-v</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_150ml_CMJN_HD.jpg?v=1780387840</IMGURL>
+<PRICE_VAT>45</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693200059</EAN>
+<PRODUCTNO>LAEV150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace mlieko pre dehydrovanú, suchú a zrelú pleť. Výživná formula s rastlinnými olejmi jemne čistí a súčasne vyživuje pokožku. Obnovuje lipidový film pleti, zanecháva ju mäkkú, pohodlnú a hydratovanú bez pocitu stiahnutia</DESCRIPTION>
+<ITEMGROUP_ID>lait-e-v</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_250ml_CMJN_HD.jpg?v=1780387839</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_50ml_CMJN_HD.jpg?v=1780970483</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-e-v-250-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko E.V. 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-e-v</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_150ml_CMJN_HD.jpg?v=1780387840</IMGURL>
+<PRICE_VAT>65</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693200066</EAN>
+<PRODUCTNO>LAEV250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace mlieko pre dehydrovanú, suchú a zrelú pleť. Výživná formula s rastlinnými olejmi jemne čistí a súčasne vyživuje pokožku. Obnovuje lipidový film pleti, zanecháva ju mäkkú, pohodlnú a hydratovanú bez pocitu stiahnutia</DESCRIPTION>
+<ITEMGROUP_ID>lait-e-v</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_250ml_CMJN_HD.jpg?v=1780387839</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_E.V_50ml_CMJN_HD.jpg?v=1780970483</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-dermo-s-50-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko Dermo-S 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-dermo-s</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_Dermo-S_150ml_CMJN_HD_1.jpg?v=1780395559</IMGURL>
+<PRICE_VAT>20</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693210447</EAN>
+<PRODUCTNO>LADER50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace mlieko s vysokou toleranciou pre citlivú, reaktívnu a intolerantnú pleť. Jemne odstraňuje make-up a nečistoty bez podráždenia, začervenania alebo stiahnutia. Upokojujúce účinné látky pôsobia na neurónovu hyperreaktivitu, narušenú bariérovú funkciu a zápal</DESCRIPTION>
+<ITEMGROUP_ID>lait-dermo-s</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_DERMO-S_50ml_CMJN_HD_1.jpg?v=1780395559</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_Dermo-S_250ml_CMJN_HD_2.jpg?v=1780395559</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-dermo-s-150-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko Dermo-S 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-dermo-s</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_Dermo-S_150ml_CMJN_HD_1.jpg?v=1780395559</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693210454</EAN>
+<PRODUCTNO>LADER150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace mlieko s vysokou toleranciou pre citlivú, reaktívnu a intolerantnú pleť. Jemne odstraňuje make-up a nečistoty bez podráždenia, začervenania alebo stiahnutia. Upokojujúce účinné látky pôsobia na neurónovu hyperreaktivitu, narušenú bariérovú funkciu a zápal</DESCRIPTION>
+<ITEMGROUP_ID>lait-dermo-s</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_DERMO-S_50ml_CMJN_HD_1.jpg?v=1780395559</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_Dermo-S_250ml_CMJN_HD_2.jpg?v=1780395559</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-dermo-s-250-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko Dermo-S 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-dermo-s</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_Dermo-S_150ml_CMJN_HD_1.jpg?v=1780395559</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693210461</EAN>
+<PRODUCTNO>LADER250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace mlieko s vysokou toleranciou pre citlivú, reaktívnu a intolerantnú pleť. Jemne odstraňuje make-up a nečistoty bez podráždenia, začervenania alebo stiahnutia. Upokojujúce účinné látky pôsobia na neurónovu hyperreaktivitu, narušenú bariérovú funkciu a zápal</DESCRIPTION>
+<ITEMGROUP_ID>lait-dermo-s</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_DERMO-S_50ml_CMJN_HD_1.jpg?v=1780395559</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_Dermo-S_250ml_CMJN_HD_2.jpg?v=1780395559</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-s-r-50-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko S.R. 50 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-s-r</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_S.R_150ml_CMJN_HD.jpg?v=1780970811</IMGURL>
+<PRICE_VAT>20</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693210393</EAN>
+<PRODUCTNO>LASR50</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace a vyrovnávacie mlieko pre zmiešanú a mastnú pleť. Odstraňuje nečistoty, prebytočný kožný maz a make-up bez narušenia prirodzenej rovnováhy pleti. Svieža a ľahká textúra nezanecháva film a pomáha pleti cítiť sa čistou, zdravšou a bez lesku</DESCRIPTION>
+<ITEMGROUP_ID>lait-s-r</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_SR_50ml_CMJN_HD.jpg?v=1780970810</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_S.R_250ml_CMJN_HD.jpg?v=1780970811</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>50 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-s-r-150-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko S.R. 150 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-s-r</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_S.R_150ml_CMJN_HD.jpg?v=1780970811</IMGURL>
+<PRICE_VAT>40</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693210409</EAN>
+<PRODUCTNO>LASR150</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace a vyrovnávacie mlieko pre zmiešanú a mastnú pleť. Odstraňuje nečistoty, prebytočný kožný maz a make-up bez narušenia prirodzenej rovnováhy pleti. Svieža a ľahká textúra nezanecháva film a pomáha pleti cítiť sa čistou, zdravšou a bez lesku</DESCRIPTION>
+<ITEMGROUP_ID>lait-s-r</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_SR_50ml_CMJN_HD.jpg?v=1780970810</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_S.R_250ml_CMJN_HD.jpg?v=1780970811</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>150 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>lait-s-r-250-ml</ITEM_ID>
+<PRODUCTNAME>Čistiace mlieko S.R. 250 ML</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/lait-s-r</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_S.R_150ml_CMJN_HD.jpg?v=1780970811</IMGURL>
+<PRICE_VAT>60</PRICE_VAT>
+<MANUFACTURER>Biologique Recherche</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Kozmetika a parfumy | Pleť | Odličovanie a čistenie pleti | Prípravky na čistenie pleti</CATEGORYTEXT>
+<EAN>3700693210416</EAN>
+<PRODUCTNO>LASR250</PRODUCTNO>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Čistiace a vyrovnávacie mlieko pre zmiešanú a mastnú pleť. Odstraňuje nečistoty, prebytočný kožný maz a make-up bez narušenia prirodzenej rovnováhy pleti. Svieža a ľahká textúra nezanecháva film a pomáha pleti cítiť sa čistou, zdravšou a bez lesku</DESCRIPTION>
+<ITEMGROUP_ID>lait-s-r</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_SR_50ml_CMJN_HD.jpg?v=1780970810</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Lait_S.R_250ml_CMJN_HD.jpg?v=1780970811</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Objem</PARAM_NAME>
+<VAL>250 ML</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-100</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 100€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>100</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>100€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-150</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 150€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>150</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>150€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-200</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 200€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>200</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>200€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-250</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 250€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>250</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>250€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-300</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 300€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>300</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>300€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-500</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 500€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>500</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>500€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-900</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 900€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>900</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>900€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>darcekovy-poukaz-1-000</ITEM_ID>
+<PRODUCTNAME>Darčekový Poukaz 1 000€</PRODUCTNAME>
+<URL>https://eshop.beyondbeauty.sk/products/darcekovy-poukaz</URL>
+<IMGURL>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/br_masky.jpg?v=1779356687</IMGURL>
+<PRICE_VAT>1000</PRICE_VAT>
+<MANUFACTURER>Beyond Beauty</MANUFACTURER>
+<CATEGORYTEXT>Heureka.sk | Hobby | Zábava | Originálne darčeky | Darčekové poukazy</CATEGORYTEXT>
+<EAN/>
+<PRODUCTNO/>
+<CONDITION>new</CONDITION>
+<DESCRIPTION>Darujte to najlepšie — darčekovú poukážku Beyond Beauty.
+Poukážka je platná na všetky produkty Biologique Recherche v našom e-shope aj v salóne Beyond Beauty. Príjemca si sám vyberie, čo jeho pleť práve potrebuje.
+Po zakúpení obdržíte jedinečný kód emailom — ihneď použiteľný online aj osobne v salóne.
+Hľadáte darček, ktorý poteší na prvý pohľad a zároveň dá obdarovanému slobodu výberu? Darčekový poukaz je ideálnym riešením pre každú príležitosť – narodeniny, meniny, Vianoce, výročie alebo len tak pre radosť.
+Vyberte si hodnotu poukazu a darujte možnosť vybrať si presne to, po čom obdarovaný túži. Elegantný, praktický a vždy vítaný darček.</DESCRIPTION>
+<ITEMGROUP_ID>darcekovy-poukaz</ITEMGROUP_ID>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Biologique_Recherche_Bratislava.jpg?v=1779980275</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://cdn.shopify.com/s/files/1/1074/3280/4701/files/Beyond_Beauty_Kozmeticky_Salon_Bratislava.jpg?v=1779964914</IMGURL_ALTERNATIVE>
+<PARAM>
+<PARAM_NAME>Hodnoty</PARAM_NAME>
+<VAL>1 000€</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+</SHOPITEM>
+</SHOP>
